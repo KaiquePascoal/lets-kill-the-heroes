@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 8579a157392761a46acae9e75736a485
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3025329980885604485
+    second: Grape Idle_0
+  - first:
+      213: 8608038571701100092
+    second: Grape Idle_1
+  - first:
+      213: -6288545982312332597
+    second: Grape Idle_2
+  - first:
+      213: -8255673880982921044
+    second: Grape Idle_3
+  - first:
+      213: 633099015439136318
+    second: Grape Idle_4
+  - first:
+      213: 3582089276776777312
+    second: Grape Idle_5
+  - first:
+      213: -8803376421081833894
+    second: Grape Idle_6
+  - first:
+      213: 1582798448020335344
+    second: Grape Idle_7
+  - first:
+      213: -5609796114817844825
+    second: Grape Idle_8
+  - first:
+      213: -2027482048330555550
+    second: Grape Idle_9
+  - first:
+      213: 6882030760958602201
+    second: Grape Idle_10
+  - first:
+      213: -2219448289976777119
+    second: Grape Idle_11
+  - first:
+      213: -7216601639014494609
+    second: Grape Idle_12
+  - first:
+      213: 7071723206946734659
+    second: Grape Idle_13
+  - first:
+      213: -993678459743727371
+    second: Grape Idle_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grape Idle_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 327
+        width: 84
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a97ae1d7200622b0800000000000000
+      internalID: -5609796114817844825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grape Idle_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 325
+        width: 83
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f96c0b1dfecd3e0800000000000000
+      internalID: -2027482048330555550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grape Idle_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 320
+        width: 92
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbaf38b382e18f50800000000000000
+      internalID: 6882030760958602201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grape Idle_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 310
+        width: 92
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16606961a8fe231e0800000000000000
+      internalID: -2219448289976777119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grape Idle_12
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 305
+        width: 127
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e0a056b0b79db90800000000000000
+      internalID: -7216601639014494609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grape Idle_13
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 305
+        width: 131
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34242f30acec32260800000000000000
+      internalID: 7071723206946734659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 46a86852e894dd7419057cfc4594e33e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Grape Idle_0: 3025329980885604485
+      Grape Idle_1: 8608038571701100092
+      Grape Idle_10: 6882030760958602201
+      Grape Idle_11: -2219448289976777119
+      Grape Idle_12: -7216601639014494609
+      Grape Idle_13: 7071723206946734659
+      Grape Idle_14: -993678459743727371
+      Grape Idle_2: -6288545982312332597
+      Grape Idle_3: -8255673880982921044
+      Grape Idle_4: 633099015439136318
+      Grape Idle_5: 3582089276776777312
+      Grape Idle_6: -8803376421081833894
+      Grape Idle_7: 1582798448020335344
+      Grape Idle_8: -5609796114817844825
+      Grape Idle_9: -2027482048330555550
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

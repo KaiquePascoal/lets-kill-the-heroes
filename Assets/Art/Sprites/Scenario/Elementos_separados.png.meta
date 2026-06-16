@@ -1,0 +1,1681 @@
+fileFormatVersion: 2
+guid: 27a335a8a8918d04f86910a1d8f3c1b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7806220555107448038
+    second: Elementos_separados_0
+  - first:
+      213: -5693530185456665648
+    second: Elementos_separados_1
+  - first:
+      213: 1347542951073685425
+    second: Elementos_separados_2
+  - first:
+      213: 5061531172414773888
+    second: Elementos_separados_3
+  - first:
+      213: 1525038081552142697
+    second: Elementos_separados_4
+  - first:
+      213: -5749470121695137681
+    second: Elementos_separados_5
+  - first:
+      213: 4510911875936213246
+    second: Elementos_separados_6
+  - first:
+      213: -7993519311799331576
+    second: Elementos_separados_7
+  - first:
+      213: -4355061890319415766
+    second: Elementos_separados_8
+  - first:
+      213: 8324136264949665374
+    second: Elementos_separados_9
+  - first:
+      213: 9130336608304023022
+    second: Elementos_separados_10
+  - first:
+      213: 9202641951334878740
+    second: Elementos_separados_11
+  - first:
+      213: -3133158299547430748
+    second: Elementos_separados_12
+  - first:
+      213: 7051577946312361356
+    second: Elementos_separados_13
+  - first:
+      213: -4138779524564086822
+    second: Elementos_separados_14
+  - first:
+      213: -37333983225070125
+    second: Elementos_separados_15
+  - first:
+      213: 5336564726442777973
+    second: Elementos_separados_16
+  - first:
+      213: -7212259662531651957
+    second: Elementos_separados_17
+  - first:
+      213: 4535012340399978793
+    second: Elementos_separados_18
+  - first:
+      213: -6360831183538864135
+    second: Elementos_separados_19
+  - first:
+      213: -5456030579032668307
+    second: Elementos_separados_20
+  - first:
+      213: 8818134633551111548
+    second: Elementos_separados_21
+  - first:
+      213: 6204446771665642591
+    second: Elementos_separados_22
+  - first:
+      213: 7806947938789435922
+    second: Elementos_separados_23
+  - first:
+      213: -8405787184432419276
+    second: Elementos_separados_24
+  - first:
+      213: 8110722989936469753
+    second: Elementos_separados_25
+  - first:
+      213: 4959162159889499899
+    second: Elementos_separados_26
+  - first:
+      213: -1080875505657632703
+    second: Elementos_separados_27
+  - first:
+      213: 1703979281523769901
+    second: Elementos_separados_28
+  - first:
+      213: -2910630814617577196
+    second: Elementos_separados_29
+  - first:
+      213: 8846253131935724348
+    second: Elementos_separados_30
+  - first:
+      213: -3024062856347183909
+    second: Elementos_separados_31
+  - first:
+      213: 356413942385332884
+    second: Elementos_separados_32
+  - first:
+      213: 4440840196093609793
+    second: Elementos_separados_33
+  - first:
+      213: -3239329048970179947
+    second: Elementos_separados_34
+  - first:
+      213: -334441445968731048
+    second: Elementos_separados_35
+  - first:
+      213: -51193967868548203
+    second: Elementos_separados_36
+  - first:
+      213: -6928218934603694827
+    second: Elementos_separados_37
+  - first:
+      213: 1560572184737886917
+    second: Elementos_separados_38
+  - first:
+      213: 4356223473213103815
+    second: Elementos_separados_39
+  - first:
+      213: -540372299545393013
+    second: Elementos_separados_40
+  - first:
+      213: -4270276353243264920
+    second: Elementos_separados_41
+  - first:
+      213: 3156212601537971226
+    second: Elementos_separados_42
+  - first:
+      213: -8009657027917892839
+    second: Elementos_separados_43
+  - first:
+      213: -1523863581160687997
+    second: Elementos_separados_44
+  - first:
+      213: -255306700677333349
+    second: Elementos_separados_45
+  - first:
+      213: 52019722856280892
+    second: Elementos_separados_46
+  - first:
+      213: -6054409642423137496
+    second: Elementos_separados_47
+  - first:
+      213: 6319707049682280675
+    second: Elementos_separados_48
+  - first:
+      213: 5148181867543020699
+    second: Elementos_separados_49
+  - first:
+      213: -176899300139088449
+    second: Elementos_separados_50
+  - first:
+      213: 1104906064490815899
+    second: Elementos_separados_51
+  - first:
+      213: -8375066404304699287
+    second: Elementos_separados_52
+  - first:
+      213: -6189894003080410263
+    second: Elementos_separados_53
+  - first:
+      213: 4455723185349051606
+    second: Elementos_separados_54
+  - first:
+      213: 5677499772694217667
+    second: Elementos_separados_55
+  - first:
+      213: 5812216448026030476
+    second: Elementos_separados_56
+  - first:
+      213: 6207089370864868932
+    second: Elementos_separados_57
+  - first:
+      213: 7700831298337763541
+    second: Elementos_separados_58
+  - first:
+      213: 889046635290049935
+    second: Elementos_separados_59
+  - first:
+      213: 5643119199523972648
+    second: Elementos_separados_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elementos_separados_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 242
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bc776a3cbbaa390800000000000000
+      internalID: -7806220555107448038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 246
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db34e146748cf0b0800000000000000
+      internalID: -5693530185456665648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 255
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf1456ac2f63b210800000000000000
+      internalID: 1347542951073685425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 256
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a595fb8cb2e3640800000000000000
+      internalID: 5061531172414773888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 258
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961dbdf1e060a2510800000000000000
+      internalID: 1525038081552142697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 252
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60b3a5e267c530b0800000000000000
+      internalID: -5749470121695137681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_6
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 261
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8d44a837af99e30800000000000000
+      internalID: 4510911875936213246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_7
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 261
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805d9f29980511190800000000000000
+      internalID: -7993519311799331576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_8
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 259
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a268bace846bf83c0800000000000000
+      internalID: -4355061890319415766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 264
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e854e64d5458370800000000000000
+      internalID: 8324136264949665374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_10
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 270
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5c4b945c875be70800000000000000
+      internalID: 9130336608304023022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_11
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 265
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e4c68d81a56bf70800000000000000
+      internalID: 9202641951334878740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_12
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 267
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a098627029c484d0800000000000000
+      internalID: -3133158299547430748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_13
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 246
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c854de308cc3cd160800000000000000
+      internalID: 7051577946312361356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_14
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 224
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf82ba53f91096c0800000000000000
+      internalID: -4138779524564086822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 192
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddb1d7a0fc5b7ff0800000000000000
+      internalID: -37333983225070125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d508828594f0a40800000000000000
+      internalID: 5336564726442777973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 179
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b861ce29c08e8eb90800000000000000
+      internalID: -7212259662531651957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 183
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929bd8132b99fee30800000000000000
+      internalID: 4535012340399978793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 187
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff30fc5db9c9b7a0800000000000000
+      internalID: -6360831183538864135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 190
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67c61d78194844b0800000000000000
+      internalID: -5456030579032668307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_22
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 198
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5423fc577f9a1650800000000000000
+      internalID: 6204446771665642591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_23
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 203
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a238f89c9d75c60800000000000000
+      internalID: 7806947938789435922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_24
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 208
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eef5e6715a85b80800000000000000
+      internalID: -8405787184432419276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_25
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 212
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6e1ce36931f8070800000000000000
+      internalID: 8110722989936469753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_26
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 168
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6c5cba5bb72d440800000000000000
+      internalID: 4959162159889499899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_27
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 171
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1482bde4475fff0f0800000000000000
+      internalID: -1080875505657632703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 185
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2289d3e020c5a710800000000000000
+      internalID: 1703979281523769901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_29
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 175
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419d96ef1bc5b97d0800000000000000
+      internalID: -2910630814617577196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_30
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 181
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c333732aa5434ca70800000000000000
+      internalID: 8846253131935724348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd419f4bade5806d0800000000000000
+      internalID: -3024062856347183909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 127
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492dfdc979c32f400800000000000000
+      internalID: 356413942385332884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 130
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1478f6831a801ad30800000000000000
+      internalID: 4440840196093609793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_34
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 116
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a478584679b03d0800000000000000
+      internalID: -3239329048970179947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_35
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 125
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854added643db5bf0800000000000000
+      internalID: -334441445968731048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_36
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 131
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b6d828b5f1a4ff0800000000000000
+      internalID: -51193967868548203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_37
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 141
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dbfc416950adf90800000000000000
+      internalID: -6928218934603694827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_38
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 139
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c238ad322448a510800000000000000
+      internalID: 1560572184737886917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_39
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 161
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ced51b2b2a647c30800000000000000
+      internalID: 4356223473213103815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_40
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 156
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88c22fa1463088f0800000000000000
+      internalID: -540372299545393013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_41
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 118
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8684f28184eecb4c0800000000000000
+      internalID: -4270276353243264920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_42
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 131
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14484683ae1dcb20800000000000000
+      internalID: 3156212601537971226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_43
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 80
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9133e3ebe5bf7d090800000000000000
+      internalID: -8009657027917892839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_44
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 68
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38633ce85262adae0800000000000000
+      internalID: -1523863581160687997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_45
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 70
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9eb95d88e7f47cf0800000000000000
+      internalID: -255306700677333349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_46
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 73
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33b92e89afc8b000800000000000000
+      internalID: 52019722856280892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_47
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 90
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b4ba2028a6afba0800000000000000
+      internalID: -6054409642423137496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e028d4141c14b750800000000000000
+      internalID: 6319707049682280675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 42
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94420ed124027740800000000000000
+      internalID: 5148181867543020699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 35
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5c13616078b8df0800000000000000
+      internalID: -176899300139088449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_51
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 30
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91662c263a655f00800000000000000
+      internalID: 1104906064490815899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_52
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 39
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9604c117a79c5cb80800000000000000
+      internalID: -8375066404304699287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_53
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 78
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b421d1334191aa0800000000000000
+      internalID: -6189894003080410263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 41
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4c33031a8e5dd30800000000000000
+      internalID: 4455723185349051606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_55
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 47
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3cccb66f78ace40800000000000000
+      internalID: 5677499772694217667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_56
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 59
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c813646a01429a050800000000000000
+      internalID: 5812216448026030476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ed08f65e2042650800000000000000
+      internalID: 6207089370864868932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_58
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 37
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0f1acd349deda60800000000000000
+      internalID: 7700831298337763541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_59
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 41
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d38355437865c00800000000000000
+      internalID: 889046635290049935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos_separados_60
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82620d07303605e40800000000000000
+      internalID: 5643119199523972648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ad3a2abe6e3280545bdb5a9098a53c9a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elementos_separados_0: -7806220555107448038
+      Elementos_separados_1: -5693530185456665648
+      Elementos_separados_10: 9130336608304023022
+      Elementos_separados_11: 9202641951334878740
+      Elementos_separados_12: -3133158299547430748
+      Elementos_separados_13: 7051577946312361356
+      Elementos_separados_14: -4138779524564086822
+      Elementos_separados_15: -37333983225070125
+      Elementos_separados_16: 5336564726442777973
+      Elementos_separados_17: -7212259662531651957
+      Elementos_separados_18: 4535012340399978793
+      Elementos_separados_19: -6360831183538864135
+      Elementos_separados_2: 1347542951073685425
+      Elementos_separados_20: -5456030579032668307
+      Elementos_separados_21: 8818134633551111548
+      Elementos_separados_22: 6204446771665642591
+      Elementos_separados_23: 7806947938789435922
+      Elementos_separados_24: -8405787184432419276
+      Elementos_separados_25: 8110722989936469753
+      Elementos_separados_26: 4959162159889499899
+      Elementos_separados_27: -1080875505657632703
+      Elementos_separados_28: 1703979281523769901
+      Elementos_separados_29: -2910630814617577196
+      Elementos_separados_3: 5061531172414773888
+      Elementos_separados_30: 8846253131935724348
+      Elementos_separados_31: -3024062856347183909
+      Elementos_separados_32: 356413942385332884
+      Elementos_separados_33: 4440840196093609793
+      Elementos_separados_34: -3239329048970179947
+      Elementos_separados_35: -334441445968731048
+      Elementos_separados_36: -51193967868548203
+      Elementos_separados_37: -6928218934603694827
+      Elementos_separados_38: 1560572184737886917
+      Elementos_separados_39: 4356223473213103815
+      Elementos_separados_4: 1525038081552142697
+      Elementos_separados_40: -540372299545393013
+      Elementos_separados_41: -4270276353243264920
+      Elementos_separados_42: 3156212601537971226
+      Elementos_separados_43: -8009657027917892839
+      Elementos_separados_44: -1523863581160687997
+      Elementos_separados_45: -255306700677333349
+      Elementos_separados_46: 52019722856280892
+      Elementos_separados_47: -6054409642423137496
+      Elementos_separados_48: 6319707049682280675
+      Elementos_separados_49: 5148181867543020699
+      Elementos_separados_5: -5749470121695137681
+      Elementos_separados_50: -176899300139088449
+      Elementos_separados_51: 1104906064490815899
+      Elementos_separados_52: -8375066404304699287
+      Elementos_separados_53: -6189894003080410263
+      Elementos_separados_54: 4455723185349051606
+      Elementos_separados_55: 5677499772694217667
+      Elementos_separados_56: 5812216448026030476
+      Elementos_separados_57: 6207089370864868932
+      Elementos_separados_58: 7700831298337763541
+      Elementos_separados_59: 889046635290049935
+      Elementos_separados_6: 4510911875936213246
+      Elementos_separados_60: 5643119199523972648
+      Elementos_separados_7: -7993519311799331576
+      Elementos_separados_8: -4355061890319415766
+      Elementos_separados_9: 8324136264949665374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

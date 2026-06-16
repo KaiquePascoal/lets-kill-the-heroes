@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: b33eb34af497e42478fed52b08276d8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3783158136041099538
+    second: Grape_Heavy_Attack_0
+  - first:
+      213: 5504480438172170334
+    second: Grape_Heavy_Attack_1
+  - first:
+      213: 1492360915301966844
+    second: Grape_Heavy_Attack_2
+  - first:
+      213: 8491803891490882392
+    second: Grape_Heavy_Attack_3
+  - first:
+      213: -8238210096064927506
+    second: Grape_Heavy_Attack_4
+  - first:
+      213: -296981765369909620
+    second: Grape_Heavy_Attack_5
+  - first:
+      213: 3797612008856752123
+    second: Grape_Heavy_Attack_6
+  - first:
+      213: -6856441823319356990
+    second: Grape_Heavy_Attack_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 130
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grape_Heavy_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 191
+        height: 213
+      alignment: 9
+      pivot: {x: 0.3534526, y: 0.10576712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211dbdbd74a708430800000000000000
+      internalID: 3783158136041099538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grape_Heavy_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 13
+        width: 218
+        height: 268
+      alignment: 9
+      pivot: {x: 0.3438414, y: 0.08505337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58b6566bc7d36c40800000000000000
+      internalID: 5504480438172170334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grape_Heavy_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 163
+        height: 296
+      alignment: 9
+      pivot: {x: 0.4164601, y: 0.08874778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf32049785ee5b410800000000000000
+      internalID: 1492360915301966844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grape_Heavy_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 19
+        width: 355
+        height: 277
+      alignment: 9
+      pivot: {x: 0.18674454, y: 0.12311502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8530896d5a2f8d570800000000000000
+      internalID: 8491803891490882392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grape_Heavy_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 34
+        width: 408
+        height: 167
+      alignment: 9
+      pivot: {x: 0.16555876, y: 0.12115492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eab5a68a8e0ebf0800000000000000
+      internalID: -296981765369909620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7ee299bdb25098b4a96a9908cf63a3b7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Grape_Heavy_Attack_0: 3783158136041099538
+      Grape_Heavy_Attack_1: 5504480438172170334
+      Grape_Heavy_Attack_2: 1492360915301966844
+      Grape_Heavy_Attack_3: 8491803891490882392
+      Grape_Heavy_Attack_4: -8238210096064927506
+      Grape_Heavy_Attack_5: -296981765369909620
+      Grape_Heavy_Attack_6: 3797612008856752123
+      Grape_Heavy_Attack_7: -6856441823319356990
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 713380d955a7c884ea4c99c7ce51b267
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5799796878989346236
+    second: soldier_IDLE_0
+  - first:
+      213: 8609175324301597068
+    second: soldier_IDLE_1
+  - first:
+      213: 3471227427069198205
+    second: soldier_IDLE_2
+  - first:
+      213: 2307764762812173122
+    second: soldier_IDLE_3
+  - first:
+      213: 3558500348781055446
+    second: soldier_IDLE_4
+  - first:
+      213: -9184410989934444668
+    second: soldier_IDLE_5
+  - first:
+      213: -5620486422081538060
+    second: soldier_IDLE_6
+  - first:
+      213: -1446009305200797020
+    second: soldier_IDLE_7
+  - first:
+      213: 3518791158520144621
+    second: soldier_IDLE_8
+  - first:
+      213: 4577707581080361934
+    second: soldier_IDLE_9
+  - first:
+      213: -7704477246555393505
+    second: soldier_IDLE_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soldier_IDLE_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 153
+        width: 175
+        height: 249
+      alignment: 9
+      pivot: {x: 0.42434984, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44abb6a977bf28fa0800000000000000
+      internalID: -5799796878989346236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_IDLE_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 147
+        width: 186
+        height: 260
+      alignment: 9
+      pivot: {x: 0.49491602, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f7d0d14f64c2030800000000000000
+      internalID: 3471227427069198205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_IDLE_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 150
+        width: 186
+        height: 246
+      alignment: 9
+      pivot: {x: 0.45052576, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddc236a635526130800000000000000
+      internalID: 3558500348781055446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_IDLE_5
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 150
+        width: 221
+        height: 216
+      alignment: 9
+      pivot: {x: 0.65831745, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f73c1adda6a8080800000000000000
+      internalID: -9184410989934444668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_IDLE_6
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 145
+        width: 200
+        height: 192
+      alignment: 9
+      pivot: {x: 0.6323877, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f77ce2b0650002b0800000000000000
+      internalID: -5620486422081538060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldier_IDLE_7
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 148
+        width: 145
+        height: 188
+      alignment: 9
+      pivot: {x: 0.48695698, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aad89db23ebeebe0800000000000000
+      internalID: -1446009305200797020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 99ae1205088d7224e88d7987fc3d86ed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      soldier_IDLE_0: -5799796878989346236
+      soldier_IDLE_2: 3471227427069198205
+      soldier_IDLE_4: 3558500348781055446
+      soldier_IDLE_5: -9184410989934444668
+      soldier_IDLE_6: -5620486422081538060
+      soldier_IDLE_7: -1446009305200797020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

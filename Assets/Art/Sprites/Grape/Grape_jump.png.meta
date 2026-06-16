@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 0fbf7f8b90a6b8d48b5251e6b66e94be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6821203949631899026
+    second: Grape_jump_0
+  - first:
+      213: 327165228336299845
+    second: Grape_jump_1
+  - first:
+      213: 7564186210668442414
+    second: Grape_jump_2
+  - first:
+      213: 1541302032068147912
+    second: Grape_jump_3
+  - first:
+      213: -4804320325383082819
+    second: Grape_jump_4
+  - first:
+      213: -1739515370223393519
+    second: Grape_jump_5
+  - first:
+      213: 7032403994588452722
+    second: Grape_jump_6
+  - first:
+      213: 2954239322968002109
+    second: Grape_jump_7
+  - first:
+      213: -9090153091341112709
+    second: Grape_jump_8
+  - first:
+      213: -1618887917965093799
+    second: Grape_jump_9
+  - first:
+      213: -3191021584458416679
+    second: Grape_jump_10
+  - first:
+      213: -10859885967842958
+    second: Grape_jump_11
+  - first:
+      213: -4537569799782167643
+    second: Grape_jump_12
+  - first:
+      213: -4624031070233719780
+    second: Grape_jump_13
+  - first:
+      213: 5178108551160340022
+    second: Grape_jump_14
+  - first:
+      213: 2854006226254022139
+    second: Grape_jump_15
+  - first:
+      213: -3595589825781905790
+    second: Grape_jump_16
+  - first:
+      213: -5068638521655880707
+    second: Grape_jump_17
+  - first:
+      213: -2718418802055064993
+    second: Grape_jump_18
+  - first:
+      213: -4713072783898342931
+    second: Grape_jump_19
+  - first:
+      213: -7608605687977800190
+    second: Grape_jump_20
+  - first:
+      213: -2190572522355017876
+    second: Grape_jump_21
+  - first:
+      213: -8394609642887926429
+    second: Grape_jump_22
+  - first:
+      213: -1933531253247802249
+    second: Grape_jump_23
+  - first:
+      213: -4254620399131002125
+    second: Grape_jump_24
+  - first:
+      213: 2725185056984933741
+    second: Grape_jump_25
+  - first:
+      213: 7836517272413032194
+    second: Grape_jump_26
+  - first:
+      213: -154002448815672506
+    second: Grape_jump_27
+  - first:
+      213: 6986510624582951965
+    second: Grape_jump_28
+  - first:
+      213: -8316206629882203360
+    second: Grape_jump_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grape_jump_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 151
+        width: 102
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6af2b9e5273651a0800000000000000
+      internalID: -6821203949631899026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grape_jump_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 174
+        width: 112
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f38d1ba035a8400800000000000000
+      internalID: 327165228336299845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grape_jump_4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 197
+        width: 120
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc2a525e10a35db0800000000000000
+      internalID: -4804320325383082819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grape_jump_6
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 183
+        width: 164
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2779b7e7c2e189160800000000000000
+      internalID: 7032403994588452722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grape_jump_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 144
+        width: 142
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aa1b4dce949d180800000000000000
+      internalID: -9090153091341112709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grape_jump_18
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 22
+        width: 169
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52d3c8908c364ad0800000000000000
+      internalID: -2718418802055064993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grape_jump_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 13
+        width: 121
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c673c46a5e58991e0800000000000000
+      internalID: -2190572522355017876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f16d48ca3851aaf4fbd9e753de05fcc7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Grape_jump_0: -6821203949631899026
+      Grape_jump_1: 327165228336299845
+      Grape_jump_10: -3191021584458416679
+      Grape_jump_11: -10859885967842958
+      Grape_jump_12: -4537569799782167643
+      Grape_jump_13: -4624031070233719780
+      Grape_jump_14: 5178108551160340022
+      Grape_jump_15: 2854006226254022139
+      Grape_jump_16: -3595589825781905790
+      Grape_jump_17: -5068638521655880707
+      Grape_jump_18: -2718418802055064993
+      Grape_jump_19: -4713072783898342931
+      Grape_jump_2: 7564186210668442414
+      Grape_jump_20: -7608605687977800190
+      Grape_jump_21: -2190572522355017876
+      Grape_jump_22: -8394609642887926429
+      Grape_jump_23: -1933531253247802249
+      Grape_jump_24: -4254620399131002125
+      Grape_jump_25: 2725185056984933741
+      Grape_jump_26: 7836517272413032194
+      Grape_jump_27: -154002448815672506
+      Grape_jump_28: 6986510624582951965
+      Grape_jump_29: -8316206629882203360
+      Grape_jump_3: 1541302032068147912
+      Grape_jump_4: -4804320325383082819
+      Grape_jump_5: -1739515370223393519
+      Grape_jump_6: 7032403994588452722
+      Grape_jump_7: 2954239322968002109
+      Grape_jump_8: -9090153091341112709
+      Grape_jump_9: -1618887917965093799
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
